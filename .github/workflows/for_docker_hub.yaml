@@ -2,7 +2,7 @@ name: Integration of DockerHub
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
 
 jobs:
     build:
